@@ -1,5 +1,5 @@
 ```
-apt install build-essential autoconf libtool bison flex libnftnl-dev libmnl-dev -y
+apt install build-essential autoconf libtool bison flex libnftnl-dev libmnl-dev git -y
 ```
 
 ```

@@ -32,7 +32,7 @@ xt_FULLCONENAT         36864  0
 ```
 
 ```
-# cd
+cd
 git clone -b v1.8.4 --single-branch git://git.netfilter.org/iptables.git
 cp netfilter-full-cone-nat/libipt_FULLCONENAT.c iptables/extensions/
 cd iptables
